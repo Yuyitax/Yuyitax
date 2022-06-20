@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+
+    <title>Coldplay Tribute Fan Page!</title>
+    <link rel="icon" type="image/x-icon" href="C:\Users\Crist\Desktop\GA Tech BootCamp\Pre-work\icon-music-heart.png">
+  </head>
+
+  <body>
+    <h1>Bio:</h1>
+
+    <p>
+        Coldplay are a British rock band formed in London in 1996. They consist of vocalist and pianist Chris Martin, guitarist Jonny Buckland, bassist Guy Berryman, drummer Will Champion and creative director Phil Harvey.[3] They met at University College London and began playing music together from 1996 to 1998, first calling themselves Pectoralz and then Starfish.
+    </p>
+
+    <h2>Members:</h2>
+
+    <ul>
+      <li>Vocalist and pianist: Chris Martin</li>
+      <li>Guitarist: Jonny Bucklan</li>
+      <li>Bassist Guy Berryman</li>
+      <li>Drummer: Will Champion</li>
+      <li>Creative director Phil Harvey</li>
+    </ul>
+
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/3/34/ColdplayBBC071221_%2853_of_53%29_%2851740659597%29.jpg"; width= "50%"
+      alt="Jonny Buckland, Chris Martin, Guy Berryman and Will Champion get ready to take a bow after performing."
+    />
+    <br />
+
+    <h2>My Favorite Song:</h2>
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/KdbDDVcw7qc?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <br />
+
+    <a href="https://en.wikipedia.org/wiki/Coldplay">All rights to Wikipedia.org</a>
+  </body>
+</html>
